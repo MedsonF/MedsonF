@@ -1,4 +1,4 @@
-# Olá, eu sou Medson Frazão! 👋
+# Sou Medson Frazão! 👋
 
 Sou Analista de Dados em Python, com formação em Engenharia de Controle e Automação e especialização em Data Science. Tenho experiência em análise de dados, automação de processos, desenvolvimento fullstack e machine learning.
 
